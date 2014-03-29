@@ -1,0 +1,45 @@
+函数指针的速度是内联函数的2倍
+inline Time: 250
+function pointer Time: 140
+inline Time: 281
+function pointer Time: 125
+inline Time: 265
+function pointer Time: 125
+inline Time: 297
+function pointer Time: 125
+inline Time: 250
+function pointer Time: 141
+inline Time: 250
+function pointer Time: 125
+inline Time: 265
+function pointer Time: 125
+inline Time: 265
+function pointer Time: 125
+inline Time: 250
+function pointer Time: 141
+inline Time: 250
+function pointer Time: 125
+inline Time: 250
+function pointer Time: 140
+inline Time: 250
+function pointer Time: 125
+inline Time: 250
+function pointer Time: 140
+inline Time: 250
+function pointer Time: 125
+inline Time: 250
+function pointer Time: 125
+inline Time: 266
+function pointer Time: 125
+inline Time: 266
+function pointer Time: 125
+inline Time: 265
+function pointer Time: 125
+inline Time: 250
+function pointer Time: 141
+inline Time: 250
+function pointer Time: 125
+inline Time: 265
+function pointer Time: 125
+inline Time: 250
+function pointer Time: 140
